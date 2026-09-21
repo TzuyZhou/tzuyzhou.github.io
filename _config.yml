@@ -354,6 +354,9 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+tag_archive_misc:
+  type: liquid
+  path: /miscellaneous/tags/
 # https://github.com/jekyll/jekyll-archives
 # jekyll-archives:
 #   enabled:
