@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-A detailed CV can be downloaded here: [CV](/Users/zhouziyuan/FILE/Documents/CV_zyzhou_260816.pdf)
+A detailed CV can be downloaded here: [CV](files/CV_zyzhou_260816.pdf)
 
 Education
 ======
