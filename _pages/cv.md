@@ -11,14 +11,17 @@ redirect_from:
 
 Education
 ======
-* PhD in Physics, École Normale Supérieure de Lyon, 2029 (expected)
-* MSc in Physics, Eidgenössische Technische Hochschule Zürich, 2026
-* BSc in Physics, Wuhan University, 2023
+* PhD in Physics - École Normale Supérieure de Lyon, France - 2029 (expected)
+* MSc in Physics - Eidgenössische Technische Hochschule Zürich, Switzerland - 2026
+* BSc in Physics - Wuhan University, China - 2023
 
 Work experience
 ======
-* Aug 2022 - Dec 2022: Project student 
-  * CERN, Genève, Switzerland
+* May 2026 - Aug 2026: Internship @ SQZ Institute, Shanghai, China
+  * Quantum dynamics of spin chains with long-range interactions
+
+* Aug 2022 - Dec 2022: Project student @ CERN, Genève, Switzerland
+  * Feasibility study at the LHC
 
 <!-- 
 * Summer 2015: Research Assistant
