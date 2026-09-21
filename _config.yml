@@ -26,9 +26,9 @@ author:
   avatar           : "profile.png"
   name             : "Ziyuan Zhou"
   pronouns         : # example: "she/her"  
-  bio              : "A PhD student in mathematical physics"
+  bio              : "A PhD student in math-ph"
   location         : "France"
-  employer         : "École Normale Supérieure de Lyon"
+  employer         : "ENS de Lyon"
   uri              : # URL
   email            : "ziyuanzhou046@gmail.com" 
 
@@ -95,7 +95,7 @@ publication_category:
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
-future                   : true
+future                   : false
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
 talkmap_link             : false      #change to true to add link to talkmap on talks page
 comments:
