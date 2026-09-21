@@ -39,7 +39,7 @@ Languages
 
 Publications
 ======
-[publications](/publications/)
+[Publications](/publications/)
 
 <!-- Publications
 ======
