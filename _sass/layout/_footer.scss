@@ -61,8 +61,10 @@
   /* don't pin the footer on mobile devices */
   .page__footer {
     // position: relative;
+    //bottom: auto;
     position: fixed;
-    bottom: auto;
+    bottom: 0;
+
   }
 }
 
