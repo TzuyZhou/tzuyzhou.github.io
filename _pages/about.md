@@ -9,7 +9,7 @@ redirect_from:
 
 
 <blockquote>
-  <p><em>人生代代无穷已 江月年年望相似 不知江月待何人 但见长江送流水</em><br>
+  <p><em>人生代代无穷已 江月年年望相似 不知江月待何人 但见长江送流水</em><br></p>
   <p style="text-align: right;">— 张若虚，《春江花月夜》</p>
 </blockquote>
 
