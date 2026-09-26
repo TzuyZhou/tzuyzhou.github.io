@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-
+<!-- 
 <blockquote>
   <p><em>人生代代无穷已 江月年年望相似 不知江月待何人 但见长江送流水</em><br></p>
   <p style="text-align: right;">— 张若虚，《春江花月夜》</p>
-</blockquote>
+</blockquote> -->
 
 
 I am a PhD student in mathematical physics at the [Laboratoire de Physique, École Normale Supérieure de Lyon (ENS de Lyon)](https://www.ens-lyon.fr/PHYSIQUE), with a focus on integrable quantum field theory. Generally speaking, my work aims at the mathematically rigorous construction of this special class of quantum field theories in a $$(1+1)$$-dimensional spacetime, with the ultimate goal of deepening our understanding of real world through these toy models. More specifically, my work exploits advanced mathematical methods and the physical properties associated with integrability to tackle the technical challenges that arise in the construction of integrable quantum field theories. For more details, please see the [Research](/research/) section.
