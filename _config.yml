@@ -23,7 +23,7 @@ repository               : "TzuyZhou/tzuyzhou.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "photo-ziyuan.jpeg" # filename of your avatar image placed in /images/ for the author profile
   name             : "Ziyuan Zhou"
   pronouns         : # example: "she/her"  
   bio              : "A PhD student in math-ph"
