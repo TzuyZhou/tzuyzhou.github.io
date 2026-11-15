@@ -22,14 +22,9 @@
 <script>
 window.MathJax = {
   tex: {
-    inlineMath: [
-      ['$', '$'],
-      ['\\(', '\\)']
-    ],
-    displayMath: [
-      ['$$', '$$'],
-      ['\\[', '\\]']
-    ],
+    inlineMath: {
+      '[+]': [['$', '$']]
+    },
     processEscapes: true,
     tags: 'all'
   }
