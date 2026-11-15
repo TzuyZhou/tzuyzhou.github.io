@@ -22,10 +22,16 @@
 <script>
 window.MathJax = {
   tex: {
-    inlineMath: [['$', '$'], ['\\(', '\\)']],
-    displayMath: [['$$', '$$'], ['\\[', '\\]']],
-    tags: 'ams',
-    packages: {'[+]': ['ams']}
+    inlineMath: [['$', '$']],
+    displayMath: [['$$', '$$']],
+    processEscapes: true,
+    tags: 'ams'
+  },
+  options: {
+    skipHtmlTags: [
+      'script', 'noscript', 'style',
+      'textarea', 'pre', 'code'
+    ]
   }
 };
 </script>
