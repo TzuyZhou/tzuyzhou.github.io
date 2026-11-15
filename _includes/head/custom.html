@@ -21,10 +21,21 @@
 
 <script>
 window.MathJax = {
+  loader: {
+    load: ['[tex]/braket']
+  },
   tex: {
-    inlineMath: {
-      '[+]': [['$', '$']]
+    packages: {
+      '[+]': ['braket']
     },
+    inlineMath: [
+      ['$', '$'],
+      ['\\(', '\\)']
+    ],
+    displayMath: [
+      ['$$', '$$'],
+      ['\\[', '\\]']
+    ],
     processEscapes: true,
     tags: 'all'
   }
